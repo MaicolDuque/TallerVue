@@ -1,0 +1,41 @@
+{
+  "results": [
+    {
+      "nombre": {
+        "nombre": "Miguelangel",
+        "apellido": "rendon Cuartas"
+      },
+      "area": "Desarrollador de front-end",
+      "sobre": "Desarrollador web con conocimientos en javascript, Node JS, VueJS, MongoDB, Hapi JS, Co organizador de la comunidad NodeCo(NodeJS Colombia).Me encanta maquetar paginas web y con muchas ganas de aprender arduino , Estudiante de Platzi con orientación en herramientas de javascript y con muchas ganas de dar talleres",
+      "location": {
+        "departamento": "Antioquia Area",
+        "pais": "Colombia"
+      },
+      "email": "rolf.hegdal@example.com",
+      "login": {
+        "uuid": "c4168eac-84b8-46ea-b735-c9da9bfb97fd",
+        "username": "bluefrog786",
+        "password": "ingrid",
+        "salt": "GtRFz4NE",
+        "md5": "5c581c5748fc8c35bd7f16eac9efbb55",
+        "sha1": "c3feb8887abed9ec1561b9aa2c9f58de21d1d3d9",
+        "sha256": "684c478a98b43f1ef1703b35b8bbf61b27dbc93d52acd515e141e97e04447712"
+      },
+      "jobs": [
+        {
+          "empresa": "SaleSavant",
+          "cargo": "Filtrador de datos",
+          "tiempo": "Presente"
+        },
+        {
+          "empresa": "Kiero International Group",
+          "cargo": "Desarrollador de front-end",
+          "tiempo" : "1 mes"
+        }
+      ],
+      "picture": {
+        "large": "https://pbs.twimg.com/profile_images/1080921959431585793/VAYTj3re_400x400.jpg"
+      }
+    }
+  ]
+}
